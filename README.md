@@ -1,1 +1,1 @@
-# DocxImager
+# Imager

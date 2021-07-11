@@ -2,7 +2,7 @@
   "name": "docximager",
   "version": "0.0.3",
   "description": "Tool to include images in docx.",
-  "author": "Varun2604",
+  "author": "powder22",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Varun2604/DocxImager.git"
+    "url": "git+https://github.com/powder22/Imager.git"
   },
   "keywords": [
-    "DocxImager",
+    "Imager",
     "Open",
     "XML",
     "Docx",
@@ -28,7 +28,7 @@
     "Images"
   ],
   "bugs": {
-    "url": "https://github.com/Varun2604/DocxImager/issues"
+    "url": "https://github.com/powder22/Imager/issues"
   },
-  "homepage": "https://github.com/Varun2604/DocxImager#readme"
+  "homepage": "https://github.com/powder22/Imager.git#readme"
 }
